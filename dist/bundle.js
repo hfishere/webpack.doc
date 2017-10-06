@@ -17926,7 +17926,7 @@ exports.push([module.i, ".hello:hover{\r\n    color: blue;\r\n}", ""]);
 /* 16 */
 /***/ (function(module, exports) {
 
-module.exports = {"note":{"to":["Ahsani"],"from":["Hafidz"],"heading":["Reminder"],"body":["I Love You"]}}
+module.exports = {"note":{"to":["Ahsani"],"from":["Hafidz"],"heading":["Remind This"],"body":["I Love You"]}}
 
 /***/ })
 /******/ ]);
